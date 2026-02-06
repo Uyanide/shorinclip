@@ -22,7 +22,7 @@ Use `kitty icat` or `chafa` for image preview and `ffmpegthumbnailer` for video 
     For example :
 
     - foot
-
+ 
     ![](pictures/foot.png)
 
     - alacritty

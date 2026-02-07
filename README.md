@@ -30,7 +30,7 @@ Use `chafa` for image preview,; `kitty icat` for gif preview when using native k
     ![](pictures/alacritty.png)
 
 
-- useage
+- usage
 
     Open cliphist daemon with this command:
   
